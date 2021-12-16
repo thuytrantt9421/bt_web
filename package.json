@@ -1,0 +1,20 @@
+{
+  "name": "th_tuan13",
+  "version": "1.0.0",
+  "description": "Đinh tuyen URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuytrantt9421/bt_web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuytrantt9421/bt_web/issues"
+  },
+  "homepage": "https://github.com/thuytrantt9421/bt_web#readme"
+}
